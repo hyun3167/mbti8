@@ -1,4 +1,4 @@
 # mbti8
 
-#PyTesseract
+# PyTesseract
 https://github.com/UB-Mannheim/tesseract/wiki
